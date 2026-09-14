@@ -15,11 +15,13 @@ Aus der [Empfehlung im Ideen-Backlog](ideen-backlog.md#empfehlung-für-die-erste
 
 | # | Format | Spiel | Finest Part | Status |
 |---|---|---|---|---|
-| 1 | The Finest Part | Half-Life 2 | Ravenholm | Idee |
-| 2 | The Finest Part | What Remains of Edith Finch | Lewis' Kapitel | Idee |
-| 3 | The Finest Part | Ōkami | Rückkehr der Farbe | Idee |
-| 4 | The Finest Part | Vampire: Bloodlines | Ocean House Hotel | Idee |
-| 5 | The Finest Part | Call of Duty 4 | All Ghillied Up | Idee |
+| 1 | The Finest Part | **SNES — Auswahl offen** | Empfehlung: Super Metroid, Ankunft auf Zebes | Idee |
+| 2 | The Finest Part | Half-Life 2 | Ravenholm | Idee |
+| 3 | The Finest Part | What Remains of Edith Finch | Lewis' Kapitel | Idee |
+| 4 | The Finest Part | Ōkami | Rückkehr der Farbe | Idee |
+| 5 | The Finest Part | Vampire: Bloodlines | Ocean House Hotel | Idee |
+
+Video 1 ist auf ein SNES-Spiel festgelegt ([Entscheidung](../docs/entscheidungen.md)), die Kandidaten stehen im [Ideen-Backlog](ideen-backlog.md#snes-auswahl-für-video-1).
 
 ## Veröffentlicht
 

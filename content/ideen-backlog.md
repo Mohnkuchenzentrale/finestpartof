@@ -30,6 +30,77 @@ Ausnahmen sind denkbar, brauchen aber eine sehr gute Begründung.
 
 ---
 
+## SNES-Auswahl für Video 1
+
+> **Vorgabe:** Das erste Video soll ein Super-Nintendo-Spiel behandeln (Entscheidung vom 2026-09-14, siehe [entscheidungen.md](../docs/entscheidungen.md)).
+
+Im Pool stecken rund 35 SNES-Titel — darunter auffällig viele mit einem klar benennbaren Finest Part:
+
+> Super Metroid · Donkey Kong Country · Donkey Kong Country 2 · Super Mario World · Yoshi's Island · A Link to the Past · Chrono Trigger · Secret of Mana · Trials of Mana · Terranigma · Super Mario RPG · Lufia II · Mega Man X · Contra III · Super Ghouls'n Ghosts · Star Fox · Final Fight 1–3 · Turtles in Time · Super Street Fighter II · Aladdin · The Magical Quest · Goof Troop · Pitfall: The Mayan Adventure · Super Star Wars (2×) · Stunt Race FX · Final Fantasy: Mystic Quest · Super Mario Kart · Super Mario All-Stars · Earthworm Jim · The Lion King · Brutal: Paws of Fury · TMNT: Tournament Fighters · Prince of Persia · Out of This World
+
+> **Unklar:** Der Listeneintrag „Final Fantasy III" kann das NES-Original oder die US-Fassung von Final Fantasy VI (SNES) meinen. Falls VI: das Opernhaus wäre ein erstklassiger Kandidat. Bitte kurz prüfen.
+
+### Die drei besten SNES-Kandidaten
+
+#### A — Super Metroid: die Ankunft auf Zebes
+
+| | |
+|---|---|
+| Finest Part | die ersten Minuten auf Crateria, vom Landeanflug bis zum Abstieg ins verlassene Brinstar |
+| Kontrast | ★★★ — ein Actionspiel beginnt mit mehreren Minuten, in denen nichts passiert |
+| Wortlos erklärbar | ★★★ |
+| Content-ID | **hoch** (Nintendo) |
+
+**Warum es funktioniert:** Regen, ein leerer Planet, kein Gegner, kaum Musik — das Spiel lässt einen zuerst allein. Die Orte sind wiedererkennbar aus dem Vorgänger, aber tot. Das ist exakt die Sorte Abschnitt, für die dieser Kanal gebaut ist: Kapitel 4 („den Moment wirken lassen") ist hier praktisch das ganze Material, und die These lässt sich in drei Sätzen sagen.
+
+**Der Haken:** Nintendo-Material gilt als das heikelste im ganzen Pool. Wie streng heute tatsächlich geclaimt wird, weiß ich nicht belastbar — das muss vor der Produktion mit einem privaten Testupload geprüft werden, nicht vermutet.
+
+#### B — Donkey Kong Country 2: Bramble Blast
+
+| | |
+|---|---|
+| Finest Part | das erste Dornenlevel mit „Stickerbrush Symphony" (David Wise) |
+| Kontrast | ★★★ — ein bunter Plattformer wird für ein Level melancholisch und weit |
+| Wortlos erklärbar | ★★★ |
+| Content-ID | **hoch** (Nintendo, und das Thema *ist* die Musik) |
+
+**Warum es funktioniert:** Ein Level, an das sich fast jeder erinnert — und fast niemand erinnert sich ans Springen darin. Die Musik verschiebt die Bedeutung des Ortes, ohne dass das Spiel einen Kommentar dazu abgibt. Perfekt für einen Kanal ohne Sprecher.
+
+**Der Haken:** Das Argument steht und fällt mit der Tonspur. Wenn genau die geclaimt oder stummgeschaltet wird, ist das Video kaputt. Höheres Risiko als A, weil die Musik nicht nur Beiwerk, sondern Gegenstand ist.
+
+#### C — Mega Man X: die Intro-Stage
+
+| | |
+|---|---|
+| Finest Part | die Autobahn-Stage bis zum Kampf gegen Vile |
+| Kontrast | ★★ |
+| Wortlos erklärbar | ★★ |
+| Content-ID | mittel (Capcom) |
+
+**Warum es funktioniert:** Ein Level bringt einem wortlos jede Mechanik bei — inklusive des Wandsprungs, den niemand erklärt, den aber jeder lernt, weil die Levelarchitektur einen dazu zwingt. Und es endet mit einem Kampf, den man nicht gewinnen kann. Sehr konkretes Material für Kapitel 3.
+
+**Der Haken:** Dieses Thema ist auf YouTube schon oft behandelt worden. Kein Ausschlussgrund — aber du bräuchtest einen eigenen Blickwinkel, sonst ist es das vierte Video über dieselbe Beobachtung.
+
+### Zweite Reihe (SNES)
+
+| Spiel | Finest Part | Bemerkung |
+|---|---|---|
+| Chrono Trigger | der Prozess nach dem Jahrmarkt | brillant, weil das Spiel heimlich mitgeschrieben hat — braucht aber mehr Text als üblich |
+| Terranigma | die Wiederauferstehung der Welt | Geheimtipp, in Europa bekannter als in den USA |
+| A Link to the Past | der erste Wechsel in die Dark World | bekannter Moment, viel Konkurrenz |
+| Lufia II | der Prolog, der eigentlich ein Ende ist | ungewöhnliche Dramaturgie |
+| Super Ghouls'n Ghosts | der erzwungene zweite Durchgang | Thema: Schwierigkeit als Aussage |
+| Contra III | die Draufsicht-Level | Perspektivwechsel mitten im Spiel |
+| Yoshi's Island | „Touch Fuzzy, Get Dizzy" | kurzer, sehr eigener Moment |
+
+### Meine Empfehlung
+
+**A — Super Metroid**, weil kein anderer SNES-Titel im Pool so genau das ist, was der Kanal sein will: ein Abschnitt, der ohne ein einziges Wort funktioniert. C ist die risikoärmere Wahl, wenn du beim ersten Video kein Rechtethema willst.
+
+Falls A: den Content-ID-Test als eigenen Schritt **vor** dem Schnitt einplanen, nicht danach. Ein kurzer privater Testupload mit Rohmaterial und Originalton reicht.
+
+---
+
 ## Shortlist — die 12 stärksten Kandidaten
 
 Sortiert nach Eignung fürs Format, nicht nach Qualität der Spiele.
@@ -184,17 +255,19 @@ Ein Abschnitt, der eine ganze Serie überlebt hat. **Warum es funktioniert:** Da
 
 ## Empfehlung für die ersten fünf Videos
 
-Die Reihenfolge ist nach Produktionsrisiko gewählt: einfach zu drehen zuerst, damit der Workflow steht, bevor es aufwendig wird.
+Die Reihenfolge ist nach Produktionsrisiko gewählt: einfach zu drehen zuerst, damit der Workflow steht, bevor es aufwendig wird. Platz 1 ist durch die SNES-Vorgabe gesetzt (siehe oben), die übrigen vier bleiben wie vorgeschlagen.
 
 | # | Video | Warum an dieser Stelle |
 |---|---|---|
-| 1 | **Half-Life 2 — Ravenholm** | erklärt das Kanalkonzept nebenbei mit; PC, leicht aufzunehmen, kein Rechtsrisiko |
-| 2 | **What Remains of Edith Finch — Lewis** | kurzes Spiel, sofort einleuchtende These, zeigt die analytische Seite |
-| 3 | **Ōkami — die Rückkehr der Farbe** | zeigt die bildliche Seite; beweist, dass der Kanal ohne Sprecher trägt |
-| 4 | **Vampire: Bloodlines — Ocean House Hotel** | trägt die Kernaussage „ein unperfektes Spiel kann einen Finest Part haben" |
-| 5 | **Call of Duty 4 — All Ghillied Up** | größte Suchreichweite der fünf; gut, sobald die Handschrift sitzt |
+| 1 | **SNES-Titel — noch offen** | Vorgabe: erstes Video auf dem SNES. Empfehlung: Super Metroid |
+| 2 | **Half-Life 2 — Ravenholm** | erklärt das Kanalkonzept nebenbei mit; PC, leicht aufzunehmen, kein Rechtsrisiko |
+| 3 | **What Remains of Edith Finch — Lewis** | kurzes Spiel, sofort einleuchtende These, zeigt die analytische Seite |
+| 4 | **Ōkami — die Rückkehr der Farbe** | zeigt die bildliche Seite; beweist, dass der Kanal ohne Sprecher trägt |
+| 5 | **Vampire: Bloodlines — Ocean House Hotel** | trägt die Kernaussage „ein unperfektes Spiel kann einen Finest Part haben" |
 
-**Warum diese Mischung:** zwei bekannte Titel mit Suchvolumen (1, 5), ein Kritikerliebling (2), ein visuelles Statement (3) und ein Geheimtipp (4). Alle fünf sind auf dem PC aufnehmbar — die Plattformfrage aus [offene-fragen.md](../docs/offene-fragen.md) blockiert den Start also nicht.
+Nachrücker: **Call of Duty 4 — All Ghillied Up** (größte Suchreichweite; gut, sobald die Handschrift sitzt).
+
+**Warum diese Mischung:** ein Klassiker mit hohem Wiedererkennungswert (1), ein bekannter Titel mit Suchvolumen (2), ein Kritikerliebling (3), ein visuelles Statement (4) und ein Geheimtipp (5).
 
 ---
 

@@ -4,10 +4,14 @@ Offene Arbeitspakete. Erledigtes wandert nach unten in „Erledigt" mit Datum.
 
 ## Als nächstes
 
+- [ ] **SNES-Kandidat für Video 1 wählen** — die drei Vorschläge stehen im [Ideen-Backlog](content/ideen-backlog.md#snes-auswahl-für-video-1)
+- [ ] **Prüfen, ob „Final Fantasy III" in der Grouvee-Liste die SNES-Fassung (= FF VI) ist** — wenn ja, kommt das Opernhaus als Kandidat dazu
+- [ ] **SNES-Aufnahmeweg klären** (Emulator vs. Hardware) und Bildformat 4:3 → 16:9 festlegen, siehe [offene-fragen.md](docs/offene-fragen.md)
+- [ ] **Content-ID-Test** für den gewählten Titel: kurzes Rohmaterial mit Originalton privat hochladen, Claims abwarten — **vor** dem Schnitt
+- [ ] Ordner `content/videos/01-<slug>/` anlegen und [Steckbrief](templates/video-steckbrief.md) ausfüllen
+- [ ] **Pilotskript schreiben**, danach Skript-Richtlinien an der Praxis nachschärfen
 - [ ] **Shortlist sichten** — [ideen-backlog.md](content/ideen-backlog.md) durchgehen, Kandidaten streichen oder ergänzen
-- [ ] **Erste drei Videos festlegen** und Ordner unter [`content/videos/`](content/videos/) anlegen
-- [ ] **Offene Fragen beantworten** — [docs/offene-fragen.md](docs/offene-fragen.md), besonders Schnittprogramm, Plattformen und Kanalhandle
-- [ ] **Pilotskript schreiben** für Video 1, danach Skript-Richtlinien an der Praxis nachschärfen
+- [ ] **Offene Fragen beantworten** — besonders Schnittprogramm und Kanalhandle
 
 ## Konzept & Doku
 
