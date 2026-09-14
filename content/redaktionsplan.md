@@ -15,7 +15,7 @@ Aus der [Empfehlung im Ideen-Backlog](ideen-backlog.md#empfehlung-für-die-erste
 
 | # | Format | Spiel | Finest Part | Status |
 |---|---|---|---|---|
-| 1 | The Finest Part | **SNES — Auswahl offen** | Empfehlung: Super Metroid, Ankunft auf Zebes | Idee |
+| 1 | The Finest Part | **SNES, kurzes Spiel — Auswahl offen** | Empfehlung: Out of This World, die ersten Minuten | Idee |
 | 2 | The Finest Part | Half-Life 2 | Ravenholm | Idee |
 | 3 | The Finest Part | What Remains of Edith Finch | Lewis' Kapitel | Idee |
 | 4 | The Finest Part | Ōkami | Rückkehr der Farbe | Idee |

@@ -40,64 +40,93 @@ Im Pool stecken rund 35 SNES-Titel — darunter auffällig viele mit einem klar 
 
 > **Unklar:** Der Listeneintrag „Final Fantasy III" kann das NES-Original oder die US-Fassung von Final Fantasy VI (SNES) meinen. Falls VI: das Opernhaus wäre ein erstklassiger Kandidat. Bitte kurz prüfen.
 
-### Die drei besten SNES-Kandidaten
+### Zusatzkriterium: kurzes Spiel
 
-#### A — Super Metroid: die Ankunft auf Zebes
+Video 1 soll ein Titel sein, der sich in ein bis drei Stunden durchspielen lässt oder dessen Finest Part früh erreichbar ist ([Entscheidung](../docs/entscheidungen.md)). Damit rücken die langen Klassiker in die zweite Reihe — sie bleiben gute Themen, nur nicht für den Anfang.
+
+> Alle Spielzeitangaben sind grobe Schätzungen für einen Durchgang ohne Vollständigkeitsanspruch, keine belegten Werte.
+
+### Die vier besten kurzen SNES-Kandidaten
+
+#### A — Out of This World (Another World): die ersten Minuten
 
 | | |
 |---|---|
-| Finest Part | die ersten Minuten auf Crateria, vom Landeanflug bis zum Abstieg ins verlassene Brinstar |
-| Kontrast | ★★★ — ein Actionspiel beginnt mit mehreren Minuten, in denen nichts passiert |
+| Spielzeit | ca. 1 Std. |
+| Finest Part | der Einstieg: Blitzschlag, Tauchbecken, erste Begegnung — bis zur Flucht aus dem Käfig |
+| Kontrast | ★★ |
 | Wortlos erklärbar | ★★★ |
-| Content-ID | **hoch** (Nintendo) |
+| Content-ID | gering |
 
-**Warum es funktioniert:** Regen, ein leerer Planet, kein Gegner, kaum Musik — das Spiel lässt einen zuerst allein. Die Orte sind wiedererkennbar aus dem Vorgänger, aber tot. Das ist exakt die Sorte Abschnitt, für die dieser Kanal gebaut ist: Kapitel 4 („den Moment wirken lassen") ist hier praktisch das ganze Material, und die These lässt sich in drei Sätzen sagen.
+**Warum es funktioniert:** Ein Spiel, das eine vollständige Geschichte ohne ein einziges Wort erzählt — kein HUD, kein Text, keine Erklärung. Genau die Beschränkung, unter der auch dieser Kanal arbeitet. Die These schreibt sich fast von selbst, und Kapitel 4 („wirken lassen") braucht hier gar keinen Eingriff.
 
-**Der Haken:** Nintendo-Material gilt als das heikelste im ganzen Pool. Wie streng heute tatsächlich geclaimt wird, weiß ich nicht belastbar — das muss vor der Produktion mit einem privaten Testupload geprüft werden, nicht vermutet.
+**Der Haken:** Die SNES-Fassung unterscheidet sich von der ursprünglichen Amiga-/DOS-Version — wie stark genau, weiß ich nicht belastbar und müsste geprüft werden. Wenn es nicht zwingend SNES sein muss, wäre die neuere Anniversary-Fassung technisch am einfachsten aufzunehmen — dann ist es aber kein SNES-Video mehr.
 
-#### B — Donkey Kong Country 2: Bramble Blast
-
-| | |
-|---|---|
-| Finest Part | das erste Dornenlevel mit „Stickerbrush Symphony" (David Wise) |
-| Kontrast | ★★★ — ein bunter Plattformer wird für ein Level melancholisch und weit |
-| Wortlos erklärbar | ★★★ |
-| Content-ID | **hoch** (Nintendo, und das Thema *ist* die Musik) |
-
-**Warum es funktioniert:** Ein Level, an das sich fast jeder erinnert — und fast niemand erinnert sich ans Springen darin. Die Musik verschiebt die Bedeutung des Ortes, ohne dass das Spiel einen Kommentar dazu abgibt. Perfekt für einen Kanal ohne Sprecher.
-
-**Der Haken:** Das Argument steht und fällt mit der Tonspur. Wenn genau die geclaimt oder stummgeschaltet wird, ist das Video kaputt. Höheres Risiko als A, weil die Musik nicht nur Beiwerk, sondern Gegenstand ist.
-
-#### C — Mega Man X: die Intro-Stage
+#### B — Mega Man X: die Intro-Stage
 
 | | |
 |---|---|
+| Spielzeit | ca. 2–3 Std. — **für das Video reichen die ersten Minuten** |
 | Finest Part | die Autobahn-Stage bis zum Kampf gegen Vile |
 | Kontrast | ★★ |
 | Wortlos erklärbar | ★★ |
 | Content-ID | mittel (Capcom) |
 
-**Warum es funktioniert:** Ein Level bringt einem wortlos jede Mechanik bei — inklusive des Wandsprungs, den niemand erklärt, den aber jeder lernt, weil die Levelarchitektur einen dazu zwingt. Und es endet mit einem Kampf, den man nicht gewinnen kann. Sehr konkretes Material für Kapitel 3.
+**Warum es funktioniert:** Ein Level bringt einem wortlos jede Mechanik bei — inklusive des Wandsprungs, den niemand erklärt, den aber jeder lernt, weil die Levelarchitektur einen dazu zwingt. Und es endet mit einem Kampf, den man nicht gewinnen kann.
 
-**Der Haken:** Dieses Thema ist auf YouTube schon oft behandelt worden. Kein Ausschlussgrund — aber du bräuchtest einen eigenen Blickwinkel, sonst ist es das vierte Video über dieselbe Beobachtung.
+**Der Haken:** Das Thema ist auf YouTube oft behandelt worden. Kein Ausschlussgrund, aber du brauchst einen eigenen Blickwinkel. Dafür der kürzeste Weg zum fertigen Video im ganzen Pool: das Material liegt hinter dem Startbildschirm.
 
-### Zweite Reihe (SNES)
+#### C — Star Fox: das Geheimlevel „Out of this Dimension"
+
+| | |
+|---|---|
+| Spielzeit | ca. 1 Std. |
+| Finest Part | der versteckte Pfad ins Schwarze Loch |
+| Kontrast | ★★★ — ein ernster Weltraum-Shooter kippt ins Absurde |
+| Wortlos erklärbar | ★★★ |
+| Content-ID | **hoch** (Nintendo) |
+
+**Warum es funktioniert:** Ein Geheimnis, das die Tonlage des ganzen Spiels bricht — Endgegner sind Spielautomaten, die Musik wechselt ins Alberne. Das ist genau der im Konzept genannte Aspekt „Überraschung / Kontrast zum restlichen Spiel".
+
+**Der Haken:** Star Fox läuft mit sehr niedriger Bildrate und grober Auflösung. Das ist Teil des Charmes, sieht in einem cinematischen Schnitt aber sperrig aus — Kapitel 4 trägt hier schlechter als bei A.
+
+#### D — Turtles in Time: der Wurf in den Bildschirm
+
+| | |
+|---|---|
+| Spielzeit | ca. 45 Min. |
+| Finest Part | der Shredder-Kampf, in dem man Gegner auf den Zuschauer zu wirft |
+| Kontrast | ★★★ |
+| Wortlos erklärbar | ★★★ |
+| Content-ID | **hoch** (Nintendo/Konami) |
+
+**Warum es funktioniert:** Ein Beat-'em-up durchbricht für einen Kampf die Bildebene. Der Moment braucht null Erklärung — man sieht ihn und versteht ihn sofort.
+
+**Der Haken:** Der Moment dauert Sekunden, nicht Minuten. Für ein 6–10-Minuten-Video zu dünn. **Besser als „The Finest Moment" (1–3 Min.) oder als Short** — womit es ein sehr guter Kandidat für das zweite Format wäre, aber nicht für Video 1.
+
+### Weitere kurze SNES-Titel im Pool
+
+Contra III · Super Ghouls'n Ghosts · Final Fight 1–3 · The Magical Quest · Disney's Aladdin · Goof Troop · Pitfall: The Mayan Adventure · Stunt Race FX — alle unter ca. 2 Stunden, aber ohne einen Abschnitt, der sich so klar als Finest Part herausstellt wie A bis D.
+
+### Zweite Reihe (SNES, für später)
 
 | Spiel | Finest Part | Bemerkung |
 |---|---|---|
-| Chrono Trigger | der Prozess nach dem Jahrmarkt | brillant, weil das Spiel heimlich mitgeschrieben hat — braucht aber mehr Text als üblich |
+| Super Metroid | die Ankunft auf Zebes | stärkster SNES-Kandidat überhaupt, aber ein langes Spiel — hebt euch das für ein späteres Video auf |
+| Donkey Kong Country 2 | Bramble Blast / „Stickerbrush Symphony" | die Musik trägt das ganze Argument; deshalb auch das größte Claim-Risiko |
+| Chrono Trigger | der Prozess nach dem Jahrmarkt | brillant, weil das Spiel heimlich mitgeschrieben hat — braucht mehr Text als üblich |
 | Terranigma | die Wiederauferstehung der Welt | Geheimtipp, in Europa bekannter als in den USA |
 | A Link to the Past | der erste Wechsel in die Dark World | bekannter Moment, viel Konkurrenz |
 | Lufia II | der Prolog, der eigentlich ein Ende ist | ungewöhnliche Dramaturgie |
-| Super Ghouls'n Ghosts | der erzwungene zweite Durchgang | Thema: Schwierigkeit als Aussage |
-| Contra III | die Draufsicht-Level | Perspektivwechsel mitten im Spiel |
 | Yoshi's Island | „Touch Fuzzy, Get Dizzy" | kurzer, sehr eigener Moment |
 
 ### Meine Empfehlung
 
-**A — Super Metroid**, weil kein anderer SNES-Titel im Pool so genau das ist, was der Kanal sein will: ein Abschnitt, der ohne ein einziges Wort funktioniert. C ist die risikoärmere Wahl, wenn du beim ersten Video kein Rechtethema willst.
+**A — Out of This World.** Rund eine Stunde Spielzeit, geringes Rechtsrisiko, und inhaltlich der beste denkbare Einstand: ein Spiel, das ohne Worte erzählt, behandelt von einem Kanal, der ohne Worte erzählt. Das trägt das Konzept mit, ohne dass es jemand aussprechen muss.
 
-Falls A: den Content-ID-Test als eigenen Schritt **vor** dem Schnitt einplanen, nicht danach. Ein kurzer privater Testupload mit Rohmaterial und Originalton reicht.
+**B — Mega Man X** ist die pragmatische Wahl, wenn Video 1 vor allem schnell fertig werden soll — das Material liegt hinter dem Startbildschirm.
+
+Für die Nintendo-Titel (C, D und alles aus der zweiten Reihe) gilt weiterhin: Content-ID-Test als eigener Schritt **vor** dem Schnitt, nicht danach.
 
 ---
 

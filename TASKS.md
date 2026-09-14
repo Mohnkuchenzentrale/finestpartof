@@ -4,9 +4,11 @@ Offene Arbeitspakete. Erledigtes wandert nach unten in „Erledigt" mit Datum.
 
 ## Als nächstes
 
-- [ ] **SNES-Kandidat für Video 1 wählen** — die drei Vorschläge stehen im [Ideen-Backlog](content/ideen-backlog.md#snes-auswahl-für-video-1)
-- [ ] **Prüfen, ob „Final Fantasy III" in der Grouvee-Liste die SNES-Fassung (= FF VI) ist** — wenn ja, kommt das Opernhaus als Kandidat dazu
-- [ ] **SNES-Aufnahmeweg klären** (Emulator vs. Hardware) und Bildformat 4:3 → 16:9 festlegen, siehe [offene-fragen.md](docs/offene-fragen.md)
+- [ ] **SNES-Kandidat für Video 1 wählen** — vier kurze Vorschläge im [Ideen-Backlog](content/ideen-backlog.md#snes-auswahl-für-video-1), Empfehlung: Out of This World
+- [ ] **Falls Out of This World:** klären, wie stark sich die SNES-Fassung von der Amiga-/DOS-Originalversion unterscheidet — das beeinflusst die These
+- [ ] **Prüfen, ob „Final Fantasy III" in der Grouvee-Liste die SNES-Fassung (= FF VI) ist** — wenn ja, kommt das Opernhaus als Kandidat dazu (allerdings kein kurzes Spiel)
+- [ ] **Bildformat 4:3 → 16:9 und Skalierung festlegen**, siehe [offene-fragen.md](docs/offene-fragen.md)
+- [ ] **Emulator einrichten** (Snes9x oder bsnes) und an einer Testszene Aufnahme, Ton und Savestates prüfen
 - [ ] **Content-ID-Test** für den gewählten Titel: kurzes Rohmaterial mit Originalton privat hochladen, Claims abwarten — **vor** dem Schnitt
 - [ ] Ordner `content/videos/01-<slug>/` anlegen und [Steckbrief](templates/video-steckbrief.md) ausfüllen
 - [ ] **Pilotskript schreiben**, danach Skript-Richtlinien an der Praxis nachschärfen
