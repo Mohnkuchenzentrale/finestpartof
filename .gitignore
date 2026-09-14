@@ -1,0 +1,11 @@
+node_modules/
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.psd
+*.prproj
+*.drp
+material/
+.DS_Store
+Thumbs.db
