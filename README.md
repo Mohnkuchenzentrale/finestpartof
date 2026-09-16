@@ -29,6 +29,7 @@ Jedes Video widmet sich einem Spiel und dem einen Abschnitt, der es besonders ma
 6. [Titel, Thumbnail & Beschreibung](docs/05-titel-thumbnail-beschreibung.md)
 7. [Rechtliches & Musik](docs/06-rechtliches-und-musik.md)
 8. [Formatideen](docs/07-formatideen.md) — Sammlung möglicher Zusatzformate, nichts entschieden
+9. [Spielübergreifende Formate](docs/08-spieluebergreifende-formate.md) — kurze Videos über mehrere Spiele, inkl. Challenge-Formate
 
 ## Ein neues Video anlegen
 

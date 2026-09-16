@@ -9,6 +9,12 @@ Das Kanalkonzept aus dem Google Doc gilt als kanonische Grundlage und liegt als 
 **Warum:** eine Quelle, gegen die alle abgeleiteten Dokumente geprüft werden können.
 **Konsequenz:** Konzeptänderungen werden zuerst im Google Doc gemacht und dann hier nachgezogen.
 
+## 2026-09-16 — Produktionsbedingung: keine vollständigen Durchgänge
+
+Spiele werden für Videos angespielt, nicht durchgespielt. Michael will viele Titel aus seiner Liste wieder erleben, aber keinen davon noch einmal von vorn bis hinten.
+**Warum:** Die Mechanik trägt eine Weile, dann verliert sich das Interesse — ein vollständiger Durchgang je Video wäre der sicherste Weg, das Projekt zum Erliegen zu bringen.
+**Konsequenz:** Themen werden so gewählt, dass der Finest Part früh erreichbar ist, oder es werden spielübergreifende Formate genutzt, die je Titel nur Minuten Material brauchen — siehe [08-spieluebergreifende-formate.md](08-spieluebergreifende-formate.md).
+
 ## 2026-09-14 — SNES-Material wird per Emulator aufgenommen
 
 Aufnahmen entstehen im Emulator (Snes9x oder bsnes), nicht auf Originalhardware.

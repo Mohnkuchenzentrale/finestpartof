@@ -17,6 +17,11 @@ Offene Arbeitspakete. Erledigtes wandert nach unten in „Erledigt" mit Datum.
 
 ## Format & Ausrichtung
 
+- [ ] **[Spielübergreifende Formate](docs/08-spieluebergreifende-formate.md) sichten** — „The Finest &lt;Element&gt;" und die Challenge-Formate
+- [ ] **Pilot festlegen:** Empfehlung „The Finest Save" (Speichersysteme), Alternative „The Finest Sewer Level"
+- [ ] **Element-Liste anlegen** und je Element sammeln, welche Spiele aus der Liste dazu passen und wie schnell sie startbar sind
+- [ ] **Zähler-Optik entwerfen** (Attempt/Deaths/Time), falls Challenges kommen — sie ersetzt die fehlende Stimme
+- [ ] Entscheiden, ob die Querformate unter FinestPartOf laufen (Empfehlung: ja) oder einen eigenen Kanal bekommen
 - [ ] **[Formatideen](docs/07-formatideen.md) sichten** und entscheiden, ob der europäische Schwerpunkt (Idee 1) bewusst mitgenommen wird
 - [ ] Falls ja: bei der Auswahl der ersten zwölf Videos überdurchschnittlich oft europäische Titel wählen
 - [ ] „The Finest Version" (Remake-Vergleich) als drittes Format vormerken — Entscheidung frühestens ab Video 8
