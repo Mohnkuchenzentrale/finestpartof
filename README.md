@@ -28,6 +28,7 @@ Jedes Video widmet sich einem Spiel und dem einen Abschnitt, der es besonders ma
 5. [Produktionsworkflow](docs/04-produktionsworkflow.md) — sieben Phasen von der Idee zum Upload
 6. [Titel, Thumbnail & Beschreibung](docs/05-titel-thumbnail-beschreibung.md)
 7. [Rechtliches & Musik](docs/06-rechtliches-und-musik.md)
+8. [Formatideen](docs/07-formatideen.md) — Sammlung möglicher Zusatzformate, nichts entschieden
 
 ## Ein neues Video anlegen
 

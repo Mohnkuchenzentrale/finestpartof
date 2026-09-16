@@ -15,6 +15,12 @@ Offene Arbeitspakete. Erledigtes wandert nach unten in „Erledigt" mit Datum.
 - [ ] **Shortlist sichten** — [ideen-backlog.md](content/ideen-backlog.md) durchgehen, Kandidaten streichen oder ergänzen
 - [ ] **Offene Fragen beantworten** — besonders Schnittprogramm und Kanalhandle
 
+## Format & Ausrichtung
+
+- [ ] **[Formatideen](docs/07-formatideen.md) sichten** und entscheiden, ob der europäische Schwerpunkt (Idee 1) bewusst mitgenommen wird
+- [ ] Falls ja: bei der Auswahl der ersten zwölf Videos überdurchschnittlich oft europäische Titel wählen
+- [ ] „The Finest Version" (Remake-Vergleich) als drittes Format vormerken — Entscheidung frühestens ab Video 8
+
 ## Konzept & Doku
 
 - [ ] Abgeleitete Dokumente ([01](docs/01-markenidentitaet.md), [02](docs/02-formate.md), [03](docs/03-skript-richtlinien.md)) gegenlesen und freigeben oder korrigieren
