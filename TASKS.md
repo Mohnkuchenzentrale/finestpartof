@@ -17,6 +17,7 @@ Offene Arbeitspakete. Erledigtes wandert nach unten in „Erledigt" mit Datum.
 
 ## Format & Ausrichtung
 
+- [ ] **[„The Finest Details"](docs/09-format-finest-details.md) entscheiden** — inkl. der Frage, ob das Konzept dafür angepasst wird (Konflikt mit der Grundidee, siehe Dokument)
 - [ ] **[Spielübergreifende Formate](docs/08-spieluebergreifende-formate.md) sichten** — „The Finest &lt;Element&gt;" und die Challenge-Formate
 - [ ] **Pilot festlegen:** Empfehlung „The Finest Save" (Speichersysteme), Alternative „The Finest Sewer Level"
 - [ ] **Element-Liste anlegen** und je Element sammeln, welche Spiele aus der Liste dazu passen und wie schnell sie startbar sind

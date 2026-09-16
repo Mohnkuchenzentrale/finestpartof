@@ -27,6 +27,10 @@ Alles, was für die Arbeit noch entschieden werden muss. Beantwortete Fragen wan
 
 ## Inhalt
 
+- [ ] **Wird die Grundidee im Konzept angepasst?** Der Vorschlag „The Finest Details" ([09](09-format-finest-details.md)) liegt näher an der Frage „Warum ist dieses Spiel gut?", die das [Konzept](00-konzept.md#grundidee) ausdrücklich ausschließt. Entweder das Konzept wird breiter gefasst, oder der Vorschlag wird zugespitzt — Empfehlung: zuspitzen.
+- [ ] **Wird „The Finest Details" das Hauptformat**, und rückt „The Finest Part" auf ein bis zwei große Stücke pro Quartal?
+- [ ] **„Besser geworden" — welche Lesart?** Entwicklungsentscheidungen im fertigen Spiel, oder Verbesserung über die Zeit durch Patches und Neuauflagen?
+
 - [ ] **Sprecher später?** Das Konzept sagt „vorerst kein eigener Sprecher". Gibt es einen Punkt, ab dem umgestellt wird — und schreiben wir Skripte schon jetzt so, dass sie sprechbar wären?
 - [ ] **Startspiele** — welche Spiele machen die ersten 3–5 Videos? (läuft gerade: Auswertung der Grouvee-Liste, siehe [../content/ideen-backlog.md](../content/ideen-backlog.md))
 - [ ] **Veröffentlichungsrhythmus** — wöchentlich, zweiwöchentlich, unregelmäßig?

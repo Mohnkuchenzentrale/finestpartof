@@ -30,6 +30,7 @@ Jedes Video widmet sich einem Spiel und dem einen Abschnitt, der es besonders ma
 7. [Rechtliches & Musik](docs/06-rechtliches-und-musik.md)
 8. [Formatideen](docs/07-formatideen.md) — Sammlung möglicher Zusatzformate, nichts entschieden
 9. [Spielübergreifende Formate](docs/08-spieluebergreifende-formate.md) — kurze Videos über mehrere Spiele, inkl. Challenge-Formate
+10. [Format-Vorschlag „The Finest Details"](docs/09-format-finest-details.md) — möglicher neuer Hauptformat-Kandidat
 
 ## Ein neues Video anlegen
 
